@@ -2,6 +2,7 @@ import { HashRouter, Link, NavLink, Route, Routes } from "react-router-dom";
 import { StoreProvider } from "./store/StoreContext.jsx";
 import { ToastProvider } from "./components/Toast.jsx";
 import AccountMenu from "./components/AccountMenu.jsx";
+import AuthRedirect from "./components/AuthRedirect.jsx";
 import Home from "./pages/Home.jsx";
 import Library from "./pages/Library.jsx";
 import EditSet from "./pages/EditSet.jsx";
@@ -14,6 +15,7 @@ export default function App() {
     <StoreProvider>
       <ToastProvider>
         <HashRouter>
+          <AuthRedirect />
           <div className="wrap">
             <header className="top">
               <Link to="/" className="brand">
