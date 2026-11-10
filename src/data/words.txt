@@ -1,0 +1,1016 @@
+# Zamirler ve soru kelimeleri
+I|ben
+you|sen, siz
+he|o (erkek)
+she|o (kadın)
+it|o (cansız, hayvan)
+we|biz
+they|onlar
+me|beni, bana
+him|onu, ona (erkek)
+her|onu, onun (kadın)
+us|bizi, bize
+them|onları, onlara
+my|benim
+your|senin, sizin
+his|onun (erkek)
+its|onun (cansız)
+our|bizim
+their|onların
+myself|kendim
+yourself|kendin
+this|bu
+that|şu, o
+these|bunlar
+those|şunlar
+something|bir şey
+nothing|hiçbir şey
+everything|her şey
+anything|herhangi bir şey
+someone|birisi
+everyone|herkes
+anyone|herhangi biri
+nobody|hiç kimse
+what|ne
+who|kim
+whose|kimin
+which|hangi
+where|nerede, nereye
+when|ne zaman
+why|neden
+how|nasıl
+yes|evet
+no|hayır
+please|lütfen
+sorry|özür dilerim
+hello|merhaba|👋
+goodbye|hoşça kal
+okay|tamam|👌
+# Bağlaçlar ve edatlar
+and|ve
+or|veya
+but|ama
+because|çünkü
+if|eğer
+so|bu yüzden
+than|-den (karşılaştırma)
+although|-e rağmen
+while|-iken
+both|her ikisi
+either|ikisinden biri
+each|her bir
+every|her
+all|hepsi, bütün
+some|bazı, biraz
+any|herhangi, hiç
+many|çok (sayılabilen)
+much|çok (sayılamayan)
+more|daha fazla
+most|en çok
+less|daha az
+least|en az
+several|birkaç
+another|başka bir
+other|diğer
+such|böyle, öyle
+of|-in, -ın (iyelik)
+to|-e, -a
+in|içinde
+on|üzerinde
+at|-de, -da
+by|tarafından, yanında
+for|için
+with|ile
+without|olmadan
+from|-den, -dan
+into|içine
+about|hakkında, yaklaşık
+like|gibi
+as|olarak, gibi
+between|arasında
+under|altında
+over|üzerinde, üstünden
+above|yukarısında
+below|aşağısında
+behind|arkasında
+across|karşısında, öbür tarafa
+along|boyunca
+around|etrafında
+through|içinden, arasından
+during|sırasında
+before|önce
+after|sonra
+until|-e kadar
+since|-den beri
+against|karşı
+near|yakın
+# Zarflar
+not|değil
+also|ayrıca
+very|çok
+too|de, da; fazla
+really|gerçekten
+always|her zaman
+usually|genellikle
+often|sık sık
+sometimes|bazen
+never|asla, hiç
+already|zaten, çoktan
+still|hâlâ
+just|sadece; az önce
+yet|henüz
+again|tekrar
+together|birlikte
+almost|neredeyse
+only|sadece
+even|hatta, bile
+ever|hiç (soruda)
+however|ancak, fakat
+maybe|belki
+perhaps|belki, olasılıkla
+probably|muhtemelen
+especially|özellikle
+quite|oldukça
+rather|oldukça; daha çok
+enough|yeterince
+now|şimdi
+then|sonra, o zaman
+here|burada, buraya
+there|orada, oraya
+soon|yakında
+later|daha sonra
+ago|önce (zaman)
+once|bir kez
+twice|iki kez
+far|uzak
+away|uzağa, uzakta
+back|geri
+inside|içeride
+outside|dışarıda
+quickly|hızlıca
+slowly|yavaşça
+well|iyi
+suddenly|aniden
+finally|sonunda
+actually|aslında
+exactly|tam olarak
+# Sayılar, günler ve zaman
+one|bir|1️⃣
+two|iki|2️⃣
+three|üç|3️⃣
+four|dört|4️⃣
+five|beş|5️⃣
+six|altı|6️⃣
+seven|yedi|7️⃣
+eight|sekiz|8️⃣
+nine|dokuz|9️⃣
+ten|on|🔟
+twenty|yirmi
+hundred|yüz (sayı)|💯
+thousand|bin
+million|milyon
+first|birinci, ilk|🥇
+second|ikinci; saniye|🥈
+third|üçüncü|🥉
+half|yarım
+Monday|pazartesi
+Tuesday|salı
+Wednesday|çarşamba
+Thursday|perşembe
+Friday|cuma
+Saturday|cumartesi
+Sunday|pazar
+time|zaman|⏰
+day|gün
+week|hafta
+month|ay (takvim)|📅
+year|yıl
+hour|saat (süre)
+minute|dakika
+moment|an
+today|bugün
+tomorrow|yarın
+yesterday|dün
+tonight|bu gece
+morning|sabah|🌅
+afternoon|öğleden sonra
+evening|akşam|🌆
+night|gece|🌙
+weekend|hafta sonu
+future|gelecek
+past|geçmiş
+season|mevsim
+spring|ilkbahar|🌷
+summer|yaz|🏖️
+autumn|sonbahar|🍂
+winter|kış|⛄
+birthday|doğum günü|🎂
+holiday|tatil|🌴
+# Temel fiiller
+be|olmak
+have|sahip olmak
+do|yapmak
+say|söylemek
+get|almak, elde etmek
+make|yapmak, üretmek
+go|gitmek
+know|bilmek
+take|almak, götürmek
+see|görmek|👀
+come|gelmek
+think|düşünmek|🤔
+look|bakmak
+want|istemek
+give|vermek
+use|kullanmak
+find|bulmak
+tell|anlatmak, söylemek
+ask|sormak
+work|çalışmak
+seem|gibi görünmek
+feel|hissetmek
+try|denemek
+leave|ayrılmak, bırakmak
+call|aramak, çağırmak|📞
+need|ihtiyaç duymak
+become|olmak, haline gelmek
+put|koymak
+mean|anlamına gelmek
+keep|tutmak, saklamak
+let|izin vermek, bırakmak
+begin|başlamak
+help|yardım etmek
+talk|konuşmak|💬
+turn|dönmek, çevirmek
+start|başlamak
+show|göstermek
+hear|duymak|👂
+play|oynamak
+run|koşmak|🏃
+move|hareket etmek, taşınmak
+live|yaşamak
+believe|inanmak
+hold|tutmak
+bring|getirmek
+happen|olmak, meydana gelmek
+write|yazmak|✍️
+provide|sağlamak
+sit|oturmak
+stand|ayakta durmak
+lose|kaybetmek
+pay|ödemek|💳
+meet|tanışmak, buluşmak
+include|içermek, dahil etmek
+continue|devam etmek
+set|ayarlamak, koymak
+learn|öğrenmek|📚
+change|değiştirmek
+lead|yönetmek, öncülük etmek
+understand|anlamak
+watch|izlemek|📺
+follow|takip etmek
+stop|durmak|🛑
+create|yaratmak, oluşturmak
+speak|konuşmak (bir dil)
+read|okumak|📖
+allow|izin vermek
+add|eklemek|➕
+spend|harcamak
+grow|büyümek|🌱
+open|açmak
+walk|yürümek|🚶
+win|kazanmak|🏆
+offer|teklif etmek
+remember|hatırlamak
+love|sevmek|❤️
+consider|göz önünde bulundurmak, düşünmek
+appear|görünmek, ortaya çıkmak
+buy|satın almak|🛒
+wait|beklemek|⏳
+serve|hizmet etmek
+die|ölmek
+send|göndermek|📨
+expect|beklemek, ummak
+build|inşa etmek|🏗️
+stay|kalmak
+fall|düşmek
+cut|kesmek|✂️
+reach|ulaşmak
+kill|öldürmek
+remain|kalmak, geriye kalmak
+suggest|önermek
+raise|kaldırmak, yükseltmek
+pass|geçmek
+sell|satmak
+require|gerektirmek
+report|bildirmek, rapor etmek
+decide|karar vermek
+pull|çekmek
+# Günlük fiiller
+break|kırmak
+explain|açıklamak
+hope|umut etmek
+develop|geliştirmek
+carry|taşımak
+drive|araba sürmek|🚗
+return|geri dönmek
+agree|aynı fikirde olmak
+receive|almak, teslim almak
+join|katılmak
+describe|tarif etmek, betimlemek
+eat|yemek yemek|🍽️
+drink|içmek|🥤
+sleep|uyumak|😴
+cook|yemek pişirmek|🍳
+wear|giymek
+choose|seçmek
+close|kapatmak
+throw|atmak, fırlatmak
+catch|yakalamak
+fly|uçmak|✈️
+swim|yüzmek|🏊
+sing|şarkı söylemek|🎤
+dance|dans etmek|💃
+draw|çizmek|✏️
+teach|öğretmek
+study|ders çalışmak
+travel|seyahat etmek|🧳
+visit|ziyaret etmek
+arrive|varmak
+answer|cevaplamak
+forget|unutmak
+laugh|gülmek|😂
+cry|ağlamak|😢
+smile|gülümsemek|😊
+listen|dinlemek|🎧
+wash|yıkamak
+clean|temizlemek|🧹
+fix|tamir etmek|🔧
+check|kontrol etmek
+save|kurtarmak, biriktirmek
+share|paylaşmak
+hide|saklamak, saklanmak
+jump|zıplamak
+kick|tekmelemek
+push|itmek
+touch|dokunmak
+smell|koklamak
+taste|tadına bakmak
+fill|doldurmak
+miss|özlemek, kaçırmak
+plan|planlamak
+prepare|hazırlamak
+protect|korumak|🛡️
+prefer|tercih etmek
+produce|üretmek
+promise|söz vermek
+prove|kanıtlamak
+reduce|azaltmak
+refuse|reddetmek
+relax|rahatlamak
+repeat|tekrar etmek
+replace|yerine koymak, değiştirmek
+reply|yanıtlamak
+rest|dinlenmek
+rise|yükselmek
+shout|bağırmak
+sign|imzalamak
+solve|çözmek
+support|desteklemek
+surprise|şaşırtmak
+thank|teşekkür etmek
+wake|uyanmak
+wish|dilemek
+worry|endişelenmek
+accept|kabul etmek
+achieve|başarmak
+avoid|kaçınmak
+borrow|ödünç almak
+compare|karşılaştırmak
+complete|tamamlamak
+count|saymak
+design|tasarlamak
+discover|keşfetmek
+discuss|tartışmak
+encourage|cesaretlendirmek
+enjoy|keyif almak
+enter|girmek
+fail|başarısız olmak
+fight|kavga etmek, savaşmak
+finish|bitirmek|🏁
+hate|nefret etmek
+hit|vurmak
+hurt|incitmek, acıtmak
+improve|geliştirmek, iyileştirmek
+increase|artırmak
+introduce|tanıtmak
+invite|davet etmek
+kiss|öpmek
+lend|ödünç vermek
+lie|yalan söylemek; uzanmak
+measure|ölçmek|📏
+mind|aldırmak, önemsemek
+notice|fark etmek
+order|sipariş etmek
+own|sahip olmak
+pick|seçmek, toplamak
+point|işaret etmek|👉
+press|basmak, bastırmak
+print|yazdırmak|🖨️
+recommend|tavsiye etmek
+remove|kaldırmak, çıkarmak
+search|aramak|🔍
+trust|güvenmek
+warn|uyarmak
+wonder|merak etmek
+earn|kazanmak (para)
+guess|tahmin etmek
+celebrate|kutlamak|🎉
+climb|tırmanmak|🧗
+collect|toplamak, biriktirmek
+complain|şikâyet etmek
+connect|bağlamak, bağlanmak
+dream|rüya görmek, hayal etmek
+drop|düşürmek
+fit|uymak, sığmak
+imagine|hayal etmek
+marry|evlenmek|💍
+paint|boyamak|🎨
+park|park etmek|🅿️
+plant|dikmek
+practice|pratik yapmak
+rain|yağmur yağmak|🌧️
+ring|çalmak (zil)|🔔
+ride|binmek
+shine|parlamak
+shop|alışveriş yapmak|🛍️
+snow|kar yağmak|❄️
+type|yazmak (klavyede)|⌨️
+vote|oy vermek|🗳️
+# İnsanlar ve aile
+people|insanlar|👥
+person|kişi|🧑
+man|adam|👨
+woman|kadın|👩
+child|çocuk|🧒
+girl|kız|👧
+boy|erkek çocuk|👦
+baby|bebek|👶
+family|aile|👪
+mother|anne
+father|baba
+parent|ebeveyn
+brother|erkek kardeş
+sister|kız kardeş
+son|oğul
+daughter|kız evlat
+husband|koca
+wife|eş, karı
+uncle|amca, dayı
+aunt|teyze, hala
+cousin|kuzen
+grandmother|büyükanne|👵
+grandfather|büyükbaba|👴
+friend|arkadaş|🤝
+neighbor|komşu
+guest|misafir
+member|üye
+leader|lider
+boss|patron
+worker|işçi|👷
+customer|müşteri
+teacher|öğretmen|🧑‍🏫
+student|öğrenci|🧑‍🎓
+doctor|doktor|🧑‍⚕️
+nurse|hemşire
+police|polis|👮
+soldier|asker
+farmer|çiftçi|🧑‍🌾
+chef|aşçı, şef|🧑‍🍳
+driver|şoför
+artist|sanatçı|🧑‍🎨
+writer|yazar
+engineer|mühendis
+president|başkan
+manager|yönetici
+king|kral|👑
+hero|kahraman|🦸
+# Vücut ve sağlık
+body|vücut
+head|baş, kafa
+face|yüz
+hair|saç
+eye|göz|👁️
+ear|kulak|👂
+nose|burun|👃
+mouth|ağız|👄
+tooth|diş|🦷
+neck|boyun
+shoulder|omuz
+arm|kol|💪
+hand|el|✋
+finger|parmak
+leg|bacak|🦵
+knee|diz
+foot|ayak|🦶
+skin|cilt, deri
+bone|kemik|🦴
+brain|beyin|🧠
+heart|kalp|❤️
+stomach|mide
+blood|kan|🩸
+health|sağlık
+illness|hastalık
+pain|acı, ağrı
+medicine|ilaç|💊
+hospital|hastane|🏥
+diet|beslenme düzeni, diyet
+exercise|egzersiz|🏋️
+life|hayat
+death|ölüm
+birth|doğum
+age|yaş
+# Ev ve eşyalar
+house|ev|🏠
+home|ev, yuva
+room|oda
+kitchen|mutfak
+bathroom|banyo|🛁
+bedroom|yatak odası
+door|kapı|🚪
+window|pencere|🪟
+wall|duvar|🧱
+floor|zemin, kat
+roof|çatı
+garden|bahçe|🏡
+bed|yatak|🛏️
+chair|sandalye|🪑
+table|masa
+sofa|kanepe|🛋️
+lamp|lamba|💡
+mirror|ayna|🪞
+shower|duş|🚿
+soap|sabun|🧼
+toilet|tuvalet|🚽
+key|anahtar|🔑
+bag|çanta|👜
+box|kutu|📦
+bottle|şişe|🍾
+glass|bardak; cam
+cup|fincan
+plate|tabak
+knife|bıçak|🔪
+fork|çatal
+spoon|kaşık|🥄
+clock|saat (duvar)|🕰️
+phone|telefon|📱
+computer|bilgisayar|💻
+television|televizyon|📺
+camera|kamera, fotoğraf makinesi|📷
+umbrella|şemsiye|☂️
+pen|tükenmez kalem|🖊️
+pencil|kurşun kalem|✏️
+paper|kâğıt|📄
+book|kitap|📕
+clothes|kıyafetler|👕
+shirt|gömlek|👔
+dress|elbise|👗
+coat|palto|🧥
+trousers|pantolon|👖
+shoe|ayakkabı|👟
+hat|şapka|🎩
+# Yiyecek ve içecek
+food|yiyecek|🍲
+water|su|💧
+bread|ekmek|🍞
+apple|elma|🍎
+banana|muz|🍌
+orange|portakal; turuncu|🍊
+lemon|limon|🍋
+grape|üzüm|🍇
+strawberry|çilek|🍓
+fruit|meyve
+vegetable|sebze|🥦
+potato|patates|🥔
+tomato|domates|🍅
+carrot|havuç|🥕
+onion|soğan|🧅
+egg|yumurta|🥚
+milk|süt|🥛
+cheese|peynir|🧀
+butter|tereyağı|🧈
+meat|et|🥩
+chicken|tavuk|🍗
+fish|balık|🐟
+rice|pirinç|🍚
+soup|çorba|🍜
+salad|salata|🥗
+cake|kek, pasta|🍰
+chocolate|çikolata|🍫
+sugar|şeker
+salt|tuz|🧂
+coffee|kahve|☕
+tea|çay|🍵
+juice|meyve suyu|🧃
+breakfast|kahvaltı|🥐
+lunch|öğle yemeği
+dinner|akşam yemeği
+meal|öğün, yemek
+# Doğa, hava ve hayvanlar
+world|dünya|🌍
+nature|doğa
+earth|toprak; Dünya
+sun|güneş|☀️
+moon|ay (gök cismi)|🌕
+star|yıldız|⭐
+sky|gökyüzü
+planet|gezegen|🪐
+space|uzay; boşluk|🚀
+air|hava
+weather|hava durumu|🌤️
+wind|rüzgâr|💨
+cloud|bulut|☁️
+storm|fırtına|⛈️
+ice|buz|🧊
+fire|ateş|🔥
+sea|deniz|🌊
+ocean|okyanus
+river|nehir
+lake|göl
+beach|plaj|🏖️
+island|ada|🏝️
+mountain|dağ|⛰️
+forest|orman|🌲
+desert|çöl|🏜️
+tree|ağaç|🌳
+flower|çiçek|🌸
+grass|çimen|🌿
+leaf|yaprak|🍃
+stone|taş|🪨
+animal|hayvan
+dog|köpek|🐕
+cat|kedi|🐈
+bird|kuş|🐦
+horse|at|🐎
+cow|inek|🐄
+sheep|koyun|🐑
+pig|domuz|🐖
+mouse|fare|🐭
+lion|aslan|🦁
+bear|ayı|🐻
+monkey|maymun|🐒
+snake|yılan|🐍
+bee|arı|🐝
+# Şehir, ulaşım ve yerler
+place|yer|📍
+country|ülke
+city|şehir|🏙️
+town|kasaba
+village|köy|🏘️
+street|sokak
+road|yol|🛣️
+bridge|köprü|🌉
+building|bina|🏢
+school|okul|🏫
+university|üniversite|🎓
+library|kütüphane
+museum|müze|🏛️
+cinema|sinema|🎦
+market|pazar, market
+bank|banka|🏦
+hotel|otel|🏨
+restaurant|restoran
+office|ofis|🏢
+factory|fabrika|🏭
+farm|çiftlik|🚜
+church|kilise|⛪
+mosque|cami|🕌
+airport|havalimanı|🛫
+station|istasyon
+car|araba|🚗
+bus|otobüs|🚌
+train|tren|🚆
+plane|uçak|✈️
+ship|gemi|🚢
+boat|tekne|⛵
+bicycle|bisiklet|🚲
+ticket|bilet|🎫
+map|harita|🗺️
+trip|gezi
+journey|yolculuk
+north|kuzey
+south|güney
+east|doğu
+west|batı
+flag|bayrak|🚩
+address|adres
+# Okul ve iş
+job|iş, meslek
+business|iş, ticaret|💼
+company|şirket
+career|kariyer
+salary|maaş
+money|para|💵
+card|kart|💳
+price|fiyat|🏷️
+cost|maliyet
+meeting|toplantı
+email|e-posta|📧
+message|mesaj|💬
+letter|mektup; harf|✉️
+list|liste|📝
+note|not
+page|sayfa
+word|kelime
+sentence|cümle
+language|dil
+question|soru|❓
+example|örnek
+lesson|ders
+class|sınıf, ders
+subject|konu, ders
+exam|sınav|📝
+test|test, deneme
+homework|ödev
+knowledge|bilgi
+skill|beceri
+ability|yetenek
+information|bilgi, enformasyon
+idea|fikir|💡
+project|proje
+goal|hedef|🎯
+result|sonuç
+problem|sorun
+mistake|hata
+team|takım
+game|oyun|🎮
+sport|spor|⚽
+football|futbol|⚽
+ball|top
+player|oyuncu
+match|maç
+race|yarış|🏁
+music|müzik|🎵
+song|şarkı|🎶
+film|film|🎬
+picture|resim|🖼️
+photo|fotoğraf|📷
+video|video|📹
+art|sanat
+news|haber|📰
+newspaper|gazete|🗞️
+dictionary|sözlük
+internet|internet|🌐
+website|web sitesi
+program|program
+machine|makine|⚙️
+tool|alet|🛠️
+product|ürün
+service|hizmet
+# Toplum ve kavramlar
+thing|şey
+way|yol, yöntem
+part|parça, bölüm
+case|durum, vaka
+fact|gerçek, olgu
+group|grup
+number|sayı|🔢
+government|hükümet
+state|devlet; durum
+nation|ulus
+society|toplum
+community|topluluk
+culture|kültür
+religion|din
+history|tarih|📜
+economy|ekonomi
+trade|ticaret
+law|kanun|⚖️
+crime|suç
+war|savaş
+peace|barış|🕊️
+army|ordu
+power|güç
+freedom|özgürlük|🗽
+right|hak; doğru
+rule|kural
+system|sistem
+reason|neden, sebep
+purpose|amaç
+role|rol
+position|konum, pozisyon
+step|adım
+event|etkinlik, olay
+situation|durum
+chance|şans, fırsat
+opportunity|fırsat
+risk|risk
+danger|tehlike|⚠️
+accident|kaza
+trouble|sorun, dert
+success|başarı
+progress|ilerleme
+choice|seçim
+decision|karar
+difference|fark
+effect|etki
+action|eylem
+experience|deneyim
+attention|dikkat
+advice|tavsiye
+opinion|görüş
+relationship|ilişki
+marriage|evlilik
+fear|korku|😨
+feeling|duygu
+memory|hafıza, anı
+truth|gerçek, doğruluk
+luck|şans|🍀
+gift|hediye|🎁
+party|parti|🥳
+story|hikâye
+joke|şaka
+voice|ses
+sound|ses|🔊
+noise|gürültü
+light|ışık
+energy|enerji|⚡
+science|bilim|🔬
+research|araştırma
+data|veri
+quality|kalite
+value|değer
+fashion|moda
+kind|tür, çeşit
+amount|miktar
+piece|parça
+side|taraf
+area|alan, bölge
+level|seviye
+habit|alışkanlık
+hobby|hobi
+# Renkler, şekiller ve ölçüler
+color|renk|🎨
+red|kırmızı|🔴
+blue|mavi|🔵
+green|yeşil|🟢
+yellow|sarı|🟡
+black|siyah|⚫
+white|beyaz|⚪
+brown|kahverengi|🟤
+pink|pembe
+purple|mor|🟣
+grey|gri
+shape|şekil
+circle|daire|⭕
+square|kare|🟥
+line|çizgi
+size|boyut
+weight|ağırlık
+height|yükseklik, boy
+distance|mesafe
+speed|hız
+temperature|sıcaklık|🌡️
+center|merkez
+corner|köşe
+middle|orta
+top|üst, tepe
+bottom|alt, dip
+front|ön
+metal|metal
+gold|altın
+wood|tahta, odun|🪵
+oil|yağ; petrol|🛢️
+# Sıfatlar
+good|iyi|👍
+bad|kötü|👎
+new|yeni
+old|eski, yaşlı
+young|genç
+big|büyük
+small|küçük
+little|küçük, az
+large|geniş, büyük
+long|uzun
+short|kısa
+high|yüksek
+low|alçak, düşük
+great|harika, büyük
+important|önemli
+different|farklı
+same|aynı
+next|sonraki
+last|son, geçen
+early|erken
+late|geç
+few|az, birkaç
+public|kamu, halka açık
+able|yapabilen, muktedir
+free|özgür; ücretsiz
+sure|emin
+better|daha iyi
+best|en iyi
+full|dolu
+empty|boş
+special|özel
+easy|kolay
+hard|zor; sert
+difficult|zor
+clear|açık, net
+certain|kesin, belli
+personal|kişisel
+private|özel, kişiye ait
+available|mevcut, müsait
+likely|muhtemel
+single|tek; bekâr
+current|güncel
+wrong|yanlış|❌
+correct|doğru|✅
+true|doğru, gerçek
+false|yanlış, sahte
+real|gerçek
+foreign|yabancı
+fine|iyi, güzel
+common|yaygın
+poor|fakir
+rich|zengin
+cheap|ucuz
+expensive|pahalı
+natural|doğal
+similar|benzer
+simple|basit
+hot|sıcak|🌶️
+cold|soğuk|🥶
+warm|ılık, sıcak
+cool|serin; havalı|😎
+dark|karanlık
+bright|parlak
+heavy|ağır
+strong|güçlü
+weak|zayıf
+happy|mutlu|😀
+sad|üzgün|😞
+angry|kızgın
+tired|yorgun|🥱
+hungry|aç
+thirsty|susamış
+sick|hasta|🤒
+healthy|sağlıklı
+busy|meşgul
+ready|hazır
+beautiful|güzel
+ugly|çirkin
+dirty|kirli
+fast|hızlı
+slow|yavaş|🐢
+quick|çabuk
+quiet|sessiz|🤫
+loud|gürültülü, yüksek sesli
+safe|güvenli
+dangerous|tehlikeli
+famous|ünlü
+favorite|en sevilen
+funny|komik
+interesting|ilginç
+boring|sıkıcı
+nice|hoş, kibar
+brave|cesur
+careful|dikkatli
+lazy|tembel
+clever|zeki
+smart|akıllı
+honest|dürüst
+friendly|arkadaş canlısı
+alone|tek başına
+afraid|korkmuş
+worried|endişeli
+excited|heyecanlı
+surprised|şaşırmış|😮
+deep|derin
+wide|geniş
+round|yuvarlak
+soft|yumuşak
+dry|kuru
+wet|ıslak
+fresh|taze
+sweet|tatlı|🍬
+delicious|lezzetli|😋
+modern|modern
+main|ana
+huge|devasa
+local|yerel
+national|ulusal
+possible|mümkün
+impossible|imkânsız
+necessary|gerekli
+normal|normal
+strange|tuhaf
+perfect|mükemmel
+wonderful|harika
+calm|sakin
+serious|ciddi
+popular|popüler
+useful|yararlı
+social|sosyal
+alive|canlı, hayatta
+dead|ölü

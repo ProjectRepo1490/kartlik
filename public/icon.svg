@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Uygulamadaki logonun (.logo) büyütülmüşü: arkada ve önde iki fiş kartı, öndekinde kırmızı kenar çizgisi.
+       Çizim 300x240'lık ortalanmış alanda: Android'in maskeleme güvenli bölgesinin (yarıçap 204,8) içinde kalır. -->
+  <rect width="512" height="512" fill="#1C2541"/>
+  <rect x="176" y="146" width="220" height="140" rx="16" fill="#FFFFFF" stroke="#1C2541" stroke-width="20"/>
+  <rect x="116" y="226" width="220" height="140" rx="16" fill="#FFFFFF" stroke="#1C2541" stroke-width="20"/>
+  <rect x="126" y="236" width="200" height="18" fill="#E2475B"/>
+</svg>
